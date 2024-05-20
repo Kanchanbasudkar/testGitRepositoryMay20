@@ -3,6 +3,8 @@ public class TestClass{
 		System.out.println("commit and push");
 		System.out.println("changes in kanchan feature branch");
 		System.out.println("changes in kanchan in other branch");
+
+		System.out.println("changes in kanchan in other branch second");
 		
 	}
 }
